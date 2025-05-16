@@ -1,3 +1,3 @@
-# Voicify1
+# Voicify
 Millions of people with hearing impairments in Malaysia face daily challenges due to the communication barrier between sign language and spoken language. Public services, education, and emergency situations often lack accessibility tools, excluding these individuals from full participation in society. There is a communication barrier for the deaf and hard-of-hearing community, as existing sign language recognition tools primarily convert gestures into text but lack real-time voice output. Voicify aims to bridge this gap by using AI-powered sign recognition to generate both text and speech output, making communication more seamless and inclusive.
 Voicify is a mobile application that uses AI to interpret Malaysian Sign Language (MSL) into text and voice output. It bridges the communication gap between the deaf and hearing communities by using computer vision (gesture recognition) combined with Google AI and TTS technologies.
